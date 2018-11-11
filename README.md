@@ -5,7 +5,7 @@ Práctica Diseño para Devs Boot 7 (2018)
 
 **Explica las decisiones más importantes que has tomado y que consideres más importantes.**
 
-La decisión más importante ha sido elegir el flujo de la aplicación y la información a mostrar en cada una de las 3 pantallas. En primero lugar, he decidido mostrar la cantidad de dinero que tiene el usuario, los últimos movimientos realizados y los botones de enviar y solicitar el dinero. A continuación, mostrar una lista de contactos, dando la opción de poder seleccionar mediante checkbox tantos contactos como desee el usuario. Y en último lugar, una vez que el usuario sabe que acción y sobre que contacto/s la va a realizar, escoger el importe deseado para finalizar el proceso.
+La decisión más importante ha sido elegir el flujo de la aplicación y la información a mostrar en cada una de las 3 pantallas. En primer lugar, he decidido mostrar la cantidad de dinero que tiene el usuario, los últimos movimientos realizados y los botones de enviar y solicitar el dinero. A continuación, mostrar una lista de contactos, dando la opción de poder seleccionar mediante checkbox tantos contactos como desee el usuario. Y en último lugar, una vez que el usuario sabe que acción y sobre que contacto/s la va a realizar, escoger el importe deseado para finalizar el proceso.
 
 **Desde el punto de vista humano, ¿qué cuestiones crees que son clave?**
 
